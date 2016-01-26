@@ -4,4 +4,4 @@ title: Sobre
 permalink: /about/
 ---
 
-Somos o time de desenolvimento do Me Salva.
+Somos o time de desenvolvimento do Me Salva.
